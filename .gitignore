@@ -1,0 +1,7 @@
+# Private prospect data: company names we are working. Shared with teammates through the private Google Sheet, never committed.
+Claimed_Companies.xlsx
+tools/claimed_snapshot.csv
+TeamClaims*.csv
+MY_PROFILE.local.md
+.DS_Store
+__pycache__/
